@@ -3,6 +3,8 @@ WEEK 1
 ~Installed Kali Linux.
 ~Learned basic commands like Is, cd, pwd using the Ethical Haccking with Cisco.
 ~ Also doing hands on labs with Cisco`s Ethical Hacking and started TryHackMe.
+
+
 #WEEK 2
 ~ Today i resumed my cybersecurity learning journey on TryHackMe and Ethical Hacking with Cisco. The focus of the sessions was on foundational skills, including Linux commands effective use of search engines such as Google, Microsoft, CVE Record, Linux Site Search etc and the role of social media in information gathering.
 ~ I practiced basic Linux commands which are essential for navigating and managing systems in a cybersecurity environment. This icluded understanding how to interact with files, directories and system processes.
